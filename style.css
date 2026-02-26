@@ -1,14 +1,14 @@
-
+<style>
     /* ─── Global ─────────────────────────────── */
     :root {
       --accent-gold: #c9a84c;
       --accent-muted: #6b5d3f;
     }
-
+    
     body {
       font-family: 'DM Sans', sans-serif;
       min-height: 100vh;
-      background: #0c0b09;
+      background: #0c0b08;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -175,4 +175,9 @@
       z-index: 999;
       animation: fadeUp 0.4s ease both;
     }
-  
+</style>
+
+
+
+
+
